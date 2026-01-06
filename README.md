@@ -28,6 +28,7 @@ Param miner
 content discovery 
 
 Reverse Engineering an API
+
  mitmweb
  
 sudo mitmproxy2swagger -i /Downloads/flows -o spec.yml -p http://crapi.apisec.ai -f flow
